@@ -2,6 +2,11 @@
 
 > **⚠️ WARNING: This APK is modified, repackaged, and contains injected code. Do NOT install it. This document exists solely for educational and security research purposes.**
 
+<p align="center">
+  <strong>Researched & documented by <a href="https://hegxib.me">Hegxib</a></strong><br>
+  <a href="https://hegxib.me">🌐 Website</a> · <a href="https://github.com/Hegxib">💻 GitHub</a> · <a href="#-donations">💸 Donate</a>
+</p>
+
 ---
 
 ## 📋 Table of Contents
@@ -30,6 +35,8 @@
 - [How to Protect Yourself](#how-to-protect-yourself)
 - [Technical Methodology](#technical-methodology)
 - [Final Verdict](#final-verdict)
+- [Credits](#credits)
+- [💸 Donations](#-donations)
 - [License & Disclaimer](#license--disclaimer)
 
 ---
@@ -1183,14 +1190,43 @@ This analysis was performed using the following techniques:
 
 ---
 
+## Credits
+
+This full forensic reverse-engineering analysis was conducted by **[Hegxib](https://hegxib.me)**.
+
+| | |
+|---|---|
+| **Author** | Hegxib |
+| **Website** | [hegxib.me](https://hegxib.me) |
+| **GitHub** | [@Hegxib](https://github.com/Hegxib) |
+| **Repository** | [is-liteapks.com-spotify-2.html-safe](https://github.com/Hegxib/is-liteapks.com-spotify-2.html-safe) |
+
+If you reference, share, or repost this analysis anywhere, please credit **Hegxib** and link back to the repo or [hegxib.me](https://hegxib.me).
+
+---
+
+## 💸 Donations
+
+If this research helped you or saved your device from malware, consider supporting more work like this:
+
+| Method | Link / Address |
+|---|---|
+| **Bitcoin (BTC)** | `bc1qppajze80mq8wcrap0ym00mch0w8z6qvpcscku2` |
+| **Ethereum (ETH)** | `0x83Cc0fe051bEf3c8D7633665F165fd9E1AFb10fC` |
+| **Ko-fi** | [Ko-fi/Hegxib](https://ko-fi.com/Hegxib) |
+
+Every donation helps fund more deep-dive security research and keeps this work free for everyone. 🙏
+
+---
+
 ## License & Disclaimer
 
 This security analysis is provided for **educational and security research purposes only**. The author does not endorse, support, or distribute pirated software. All trademarks (Spotify, Google, Facebook, etc.) belong to their respective owners.
 
 The findings in this document are based on **static analysis only** — examining file structures, binary strings, and metadata without executing the code. Dynamic analysis (running the APK in a sandbox) may reveal additional behaviors not covered here.
 
-This analysis was conducted on **February 23, 2026**.
+This analysis was conducted by **[Hegxib](https://hegxib.me)** on **February 23, 2026**.
 
 ---
 
-*If you found this analysis useful, consider sharing it to help others stay safe from modified APKs.*
+*If you found this analysis useful, ⭐ star the repo and share it to help others stay safe from modified APKs.*
