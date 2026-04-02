@@ -1156,7 +1156,7 @@ This analysis was performed using the following techniques:
 9. **Cross-referencing** — Verifying which components are present in the official Spotify app vs injected by the modder
 10. **ELF symbol analysis** — Examining demangled C++ symbols in native libraries to understand ART hooking mechanisms
 
-**Tools used**: PowerShell, .NET System.IO/System.Text/System.IO.Compression APIs, regex pattern matching, hex analysis.
+**Tools used**: PowerShell, .NET System.IO/System.Text/System.IO.Compression APIs, regex pattern matching, [Hex](https://hegxib.me) analysis.
 
 ---
 
