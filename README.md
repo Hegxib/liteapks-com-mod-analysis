@@ -1,7 +1,7 @@
 # 🔬 Security Forensic Analysis — Spotify v9.1.24.1739 (Premium) "fix"
 
 > **⚠️ WARNING: This APK is modified, repackaged, and contains injected code. Do NOT install it. This document exists solely for educational and security research purposes.**
-
+> ***For Removal Requests Please contact us at legal@hegxib.me***
 <p align="center">
   <strong>Researched & documented by <a href="https://hegxib.me">Hegxib</a></strong><br>
   <a href="https://hegxib.me">🌐 Website</a> · <a href="https://github.com/Hegxib">💻 GitHub</a> · <a href="#-donations">💸 Donate</a>
